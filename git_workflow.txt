@@ -9,8 +9,8 @@
 3. Commit the changes with a message
    git commit -m "Initial commit with register.php, mail.php and database setup"
 
-4. Add a remote repository (replace the link with your GitHub repo link)
-   git remote add origin https://github.com/<your-username>/<your-repo>.git
+4. Add a remote repository (https://github.com/EthieuRin/Project.git)
+   git remote add origin https://github.com/EthieuRin/Project.git
 
 5. Push the changes to the remote repository
    git push -u origin main
